@@ -36,8 +36,8 @@ const Mainlayout = () => {
             <div className='grid grid-cols-1 col-span-2 mx-auto'>
               <Outlet></Outlet>
             </div>
-            <div className='grid grid-cols-1'>
-            <div className="w-64 min-h-screen ">
+            <div className='grid col-span-1 '>
+            <div className="w-full min-h-screen ">
         <ul className="menu p-4 ">
 {
   isAdmin ? <>

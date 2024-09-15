@@ -11,7 +11,9 @@ export default {
       background: '#ABC7DE',
       secondaryColor:'#dedcff',
       textColor:'#050315',
-      accentColor:'#433bff'
+      accentColor:'#433bff',
+      redColor:'#ef4444',
+      'white':'#FFFFFF'
       
       // ...
     },
